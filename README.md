@@ -3,7 +3,7 @@
 
 ### Project Structure
 ```
-microservices-lab/
+microservices/
 ├── docker-compose.yml
 ├── item-service/        → Port 8081
 ├── order-service/       → Port 8082
